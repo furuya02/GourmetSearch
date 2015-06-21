@@ -15,7 +15,7 @@ public class YahooLocalSearch{
     
     let apiId = SecretKey.appId // アプリケーションID(Githubでは配布されていません)
     let apiUrl = "http://search.olp.yahooapis.jp/OpenLocalPlatform/V1/localSearch"
-    let testKey = SecretKey.testKey
+
 
     //通知メッセージ
     let YLSLoadStartNotification = "YLSLoadStartNotification"
